@@ -1,0 +1,2 @@
+ekstrak dulu
+lalu rename pacman.ex jadi pacman.exe
